@@ -1,0 +1,6 @@
+[submodule "blog-preview-bootstrap-refactor"]
+	path = blog-preview-bootstrap-refactor
+	url = https://github.com/preetisawant1911/blog-preview-bootstrap-refactor20.git
+[submodule "qr-code-component-main"]
+	path = qr-code-component-main
+	url = https://github.com/preetisawant1911/qr-code-component-main.git
