@@ -4,3 +4,6 @@
 [submodule "qr-code-component-main"]
 	path = qr-code-component-main
 	url = https://github.com/preetisawant1911/qr-code-component-main.git
+[submodule "Space-Tourism-Homepage-main"]
+	path = Space-Tourism-Homepage-main
+	url = https://github.com/preetisawant1911/Space-Tourism-Homepage.git
